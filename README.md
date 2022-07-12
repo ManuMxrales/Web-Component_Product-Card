@@ -21,3 +21,4 @@ For e.g:
     img="./assets/nike-blue.png"
   ></product-card>
 ```
+<img width="1263" alt="W1" src="https://user-images.githubusercontent.com/85148186/178544215-797c04a1-3147-41e2-83ac-d688ea8da4e6.png">
